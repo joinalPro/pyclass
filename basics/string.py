@@ -1,2 +1,2 @@
-product_name = "Laptop"
-product_quantity = 7
+print("Hello World".find("o"))
+print("Hello World".replace("World", "Banladesh"))
